@@ -9,4 +9,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaAAmaral&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117" />
 </div>
 
-![Snake animation](https://github.com/EduardaAAmaral/EduardaAAmaral/edit/main/README.md)
+![snake gif](https://github.com/EduardaAAmaral/EduardaAAmaral/blob/output/github-contribution-grid-snake.svg)
