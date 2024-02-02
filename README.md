@@ -5,11 +5,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardaAAmaral&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=ffff&text_color=A7E0D8&bg_color=0d1117" alt="Bruno Lobato github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardaAAmaral&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=ffff&text_color=A7E0D8&bg_color=0d1117" alt="Eduarda Amaral github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaAAmaral&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117" />
 </div>
-
-<p align="left">Hello World!!</p>
 
 ###
 
