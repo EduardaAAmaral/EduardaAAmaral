@@ -1,56 +1,129 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9e4c98&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Eduarda+Amaral;Tenho+20+anos;Sou+Estudante+de+Sistema+de+Informação;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<div align="center">
 
+# 👋 Olá, eu sou a Eduarda Amaral
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardaAAmaral&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 💻 Flutter Developer • Front-end Developer • UI/UX Enthusiast
 
-###
+<img src="https://readme-typing-svg.herokuapp.com/?color=9e4c98&size=30&center=true&vCenter=true&width=900&lines=Flutter+Developer;Front-end+Developer;Clean+Architecture+Enthusiast;React+%7C+Flutter+%7C+Dart;Sempre+aprendendo+algo+novo+🚀" />
+
+</div>
+
+## 🚀 Sobre mim
+
+🎓 Bacharela em Sistemas de Informação pela FURG  
+🎓 Mestranda em Engenharia de Computação na FURG  
+
+💻 Desenvolvedora Mobile com foco em Flutter & Dart  
+⚛️ Desenvolvedora Front-end utilizando React e Next.js  
+🎨 Apaixonada por UI/UX, interfaces modernas e experiência do usuário  
+🧠 Interesse em Engenharia de Software, Arquitetura de Sistemas e Inteligência Artificial  
+
+🚀 Experiência no desenvolvimento de aplicações mobile, web e sistemas escaláveis, atuando desde a prototipação até a implementação de soluções focadas em performance, usabilidade e qualidade de software.
+
+📍 Rio Grande - RS, Brasil
+
+## 🛠️ Tecnologias
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eduarda-amaral-124890229/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/AmaralDuda1930" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <a href="https://discord.com/duda8965" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/eduarda.amaral.353/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+
+### 💻 Front-end
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
+
+### ⚙️ Back-end & Banco de Dados
+<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+
+### 🧰 Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+
 </div>
 
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardaAAmaral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardaAAmaral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EduardaAAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EduardaAAmaral&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
+---
 
+## 💼 Experiência
 
+### 📱 Flutter Developer
+- Desenvolvimento Android & iOS
+- APIs REST
+- Clean Architecture
+- State Management
+- Responsividade
+- Performance Mobile
 
-<div align="letf">
-  <br><p align="letf"><b>Principais Conhecimentos:</br></p> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-DC143C?style=for-the-badge&logo=css3&logoColor=white" >
-  <img src="https://img.shields.io/badge/Python-9932CC?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
-  <img src="https://img.shields.io/badge/R-1E90FF?style=for-the-badge&logo=r&logoColor=white">
-</div>
+### 🎨 UI/UX
+- Figma
+- Protótipos
+- Design Responsivo
+- Experiência do Usuário
 
+### ⚡ Front-end
+- React
+- Next.js
+- Componentização
+- Interfaces modernas
 
-<div aling="left">
-  <br><p align="left">Estudando no momento:</br></p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-  
+---
 
-
+## 🌱 Atualmente estudando
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EduardaAAmaral}/count.svg" /></p> 
-<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript" />
+
+</div>
+
+- Arquitetura Mobile Avançada
+- Performance Flutter
+- Engenharia de Software
+- Inteligência Artificial
+- Desenvolvimento Full Stack
+
+---
+
+## 🌐 Redes
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/eduardaaamaral/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-9e4c98?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/EduardaAAmaral" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:eduardaalvesamaral@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-9e4c98?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EduardaAAmaral&theme=tokyonight&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Transformando ideias em experiências digitais.” ✨
+
 </div>
